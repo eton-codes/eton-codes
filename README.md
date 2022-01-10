@@ -2,8 +2,7 @@
 - 👀 I’m interested in Programming, and the evolving computer techs all around us!
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on small scale projects that might need a short hand help!
-- 📫 How to reach me
-Email:  eton-codes@stayhome.li
+- 📫 Email:  eton-codes@stayhome.li
 
 Linkedin: https://www.linkedin.com/in/etonwilliams1/
 
