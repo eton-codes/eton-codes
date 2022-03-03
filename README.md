@@ -1,7 +1,7 @@
 - 👋 Hi, I’m eton-codes
 - 👀 I’m interested in Programming, and the evolving computer techs all around us!
 - 🌱 I’m currently learning Python, HTML, CSS, SQL.
-- 💞️ I’m looking to collaborate on small/large scale projects!
+- 💞️ I’m looking to collaborate on small/large scale projects related to web development or Python passion projects!
 - 📫 Email:  eton-codes@stayhome.li
 - 🤝 Linkedin: https://www.linkedin.com/in/etonwilliams1/
 
